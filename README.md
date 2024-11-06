@@ -32,10 +32,22 @@ Transforming ideas into exceptional web solutions.
 
 ---
 
-## 💻 Skills
-- **Languages**: Java, Advanced Java, HTML, CSS, JavaScript
-- **Technologies**: SQL, JSP, Servlet, Full-Stack Web Development
-- **Soft Skills**: Sportsmanship, Leadership
+## 🛠️ Skills
+
+### Programming Languages & Technologies
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Advanced Java](https://img.shields.io/badge/Advanced%20Java-007396?style=flat&logo=java&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white)
+![Servlet](https://img.shields.io/badge/Servlet-007396?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### Professional Skills
+- Full-Stack Development
+- Core JAVA and Advanced JAVA
+- Sportsmanship and Leadership
 
 ---
 
